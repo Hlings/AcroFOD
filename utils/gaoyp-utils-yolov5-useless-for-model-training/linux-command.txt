@@ -1,0 +1,16 @@
+install sudo
+apt-get install sudo
+在Unbutu和Debian版本下 以下命令用于安装unzip:
+sudo apt install unzip 
+（已安装会被告知已安装）
+解压文件直接放在zip目录用下命令
+unzip zipped_file.zip
+
+解压文件到指定文件夹下
+unzip viped.zip -d /userhome/ViPeD
+unzip civic/IJCAI_15.zip -d /userhome/civic/IJCAI_15
+unzip civic/IJCAI_15.zip -d /userhome/civic/IJCAI_15
+所有内容会被提取到unzipped_directory中
+
+统计文件夹中所有文件总大小
+du -sk /userhome/
