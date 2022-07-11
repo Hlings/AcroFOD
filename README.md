@@ -1,5 +1,5 @@
 ## AcroFOD
-The official PyTorch implementation of AcroFOD. The paper will be public soon.
+The official PyTorch implementation of AcroFOD. The paper is accepted on ECCV2022 and will be public soon.
 
 ### Things to do.
 The commiter is fighting for refining the camera ready paper. So, there are some things to do later.
