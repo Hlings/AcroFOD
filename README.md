@@ -17,5 +17,5 @@ This repo is based on [YOLOv5 repo](https://github.com/ultralytics/yolov5). Plea
 2. The command below can reprouce the corresponding results mentioned in the paper.
 
 ```bash
-python train_MMD.py --img 640 --batch 16 --epochs 300 --data ./data/city_and_foggy8_3.yaml --cfg ./models/yolov5x.yaml --hyp ./data/hyp_aug/m1.yaml --weights '' --name "test"
+python train_MMD.py --img 640 --batch 12 --epochs 300 --data ./data/city_and_foggy8_3.yaml --cfg ./models/yolov5x.yaml --hyp ./data/hyp_aug/m1.yaml --weights '' --name "test"
 ```
