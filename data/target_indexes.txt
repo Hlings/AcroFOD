@@ -1,0 +1,21 @@
+# 8 images Cityscapes to FoggyCityscapes #
+Set1:
+darmstadt_000081_000019_leftImg8bit_foggy_beta_0.02.png
+hanover_000000_045841_leftImg8bit_foggy_beta_0.02.png
+tubingen_000090_000019_leftImg8bit_foggy_beta_0.02.png
+dusseldorf_000114_000019_leftImg8bit_foggy_beta_0.02.png
+jena_000046_000019_leftImg8bit_foggy_beta_0.02.png
+zurich_000072_000019_leftImg8bit_foggy_beta_0.02.png
+dusseldorf_000184_000019_leftImg8bit_foggy_beta_0.02.png
+tubingen_000031_000019_leftImg8bit_foggy_beta_0.02.png
+
+# 8 images Sim10K/KITTI to Cityscapes Car #
+Set1:
+darmstadt_000032_000019_leftImg8bit.png
+darmstadt_000050_000019_leftImg8bit.png
+dusseldorf_000194_000019_leftImg8bit.png
+dusseldorf_000206_000019_leftImg8bit.png
+hamburg_000000_078579_leftImg8bit.png
+krefeld_000000_033478_leftImg8bit.png
+strasbourg_000000_004112_leftImg8bit.png
+tubingen_000106_000019_leftImg8bit.png
