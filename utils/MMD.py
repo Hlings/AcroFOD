@@ -34,7 +34,7 @@ def cosine_distance(f_S, f_T, k): # f_S: [B1 1280]  T: [B2 1280]
         T_topk = f_T.topk(k=k, largest = False)
     else: 
         return torch.arange(0, f_T.shape[0])
-    return T_topk[1] # T中和 
+    return T_topk[1] 
 
 def choice_topk(imgs, targets, paths, topk_index):
     paths_refine = []
