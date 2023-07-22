@@ -1,4 +1,4 @@
-## AcroFOD
+## AcroFOD: An Adaptive Method for Cross-domain Few-shot Object Detection
 The official PyTorch implementation of AcroFOD. The paper is accepted on the ECCV2022 and will be public soon.
 
 ### Things to do.
