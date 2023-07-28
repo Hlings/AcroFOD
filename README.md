@@ -8,8 +8,11 @@ The committee is fighting to refine the camera-ready paper. So, there are some t
 - Provide more training logs and pretrained checkpoints.
 - Provide more tools and instructions for processing the raw data.
 
+**The above data has been uploaded. I will share the links this week.**
+
 ### Requirements and Preparing data
 This repo is based on [YOLOv5 repo](https://github.com/ultralytics/yolov5). Please follow that repo for installation and preparation.
+The version I built for this project is YOLO v5 3.0. The proposed methods are also easy to be migrated into advanced YOLO versions.
 
 ### Training
 1. Modify the config of the data in the data subfolders. Please refer to the instructions in the yaml file.
