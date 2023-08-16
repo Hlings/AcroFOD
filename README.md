@@ -22,3 +22,14 @@ The version I built for this project is YOLO v5 3.0. The proposed methods are al
 ```bash
 python train_MMD.py --img 640 --batch 12 --epochs 300 --data ./data/city_and_foggy8_3.yaml --cfg ./models/yolov5x.yaml --hyp ./data/hyp_aug/m1.yaml --weights '' --name "test"
 ```
+
+- If you find this paper/repository useful, please consider citing our paper:
+```
+@inproceedings{gao2022acrofod,
+  title={AcroFOD: An Adaptive Method for Cross-Domain Few-Shot Object Detection},
+  author={Gao, Yipeng and Yang, Lingxiao and Huang, Yunmu and Xie, Song and Li, Shiyong and Zheng, Wei-Shi},
+  booktitle={European Conference on Computer Vision},
+  pages={673--690},
+  year={2022}
+}
+```
