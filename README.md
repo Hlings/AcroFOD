@@ -13,7 +13,7 @@ The links of the processed data (Yolo format) are as follows (in Baidu Desk):
 
 [Cityscapes_8cls](https://pan.baidu.com/s/1lPjaHOgoh5YCJcnP1hTzDw?pwd=rg4z) Key: rg4z (The Cityscapes dataset includes 8 classes.)
 
-[Cityscapes_8cls_foggy](https://pan.baidu.com/s/1S1NuZSyailngL2M3STAZmA?pwd=y4yw) Key: y4yw (The Foggy Cityscapes dataset includes 9 classes.)
+[Cityscapes_8cls_foggy](https://pan.baidu.com/s/1q560FQw-WSFq2_NucNNfVA?pwd=bjgr) Key: bjgr (The Foggy Cityscapes dataset includes 8 classes.)
 
 [Viped](https://pan.baidu.com/s/1a1SHZ4eb2q5mSyqWY2ZQmQ?pwd=a9y7) Key: a9y7 (The synthetic dataset includes)
 
