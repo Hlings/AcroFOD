@@ -36,7 +36,7 @@ The version I built for this project is YOLO v5 3.0. The proposed methods are al
 2. The command below can reproduce the corresponding results mentioned in the paper.
 
 ```bash
-python train_MMD.py --img 640 --batch 12 --epochs 300 --data ./data/city_and_foggy8_3.yaml --cfg ./models/yolov5x.yaml --hyp ./data/hyp_aug/m1.yaml --weights '' --name "test"
+python train_MMD.py --img 640 --batch 12 --epochs 300 --data ./data/city_and_foggy8_1.yaml --cfg ./models/yolov5x.yaml --hyp ./data/hyp_aug/m1.yaml --weights '' --name "test"
 ```
 
 - If you find this paper/repository useful, please consider citing our paper:
